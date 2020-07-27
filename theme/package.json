@@ -1,0 +1,20 @@
+{
+  "name": "vuepress-theme-ugly",
+  "version": "0.1.0",
+  "description": "A simple theme for vuepress.",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "core-js": "^3.6.5",
+    "node-sass": "^4.14.1",
+    "sass": "^1.26.10",
+    "sass-loader": "^9.0.2",
+    "smooth-scrollbar": "^8.5.2"
+  },
+  "dependencies": {},
+  "author": "zw-l",
+  "keywords": [
+    "vuepress",
+    "theme"
+  ]
+}

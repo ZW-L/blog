@@ -1,0 +1,1 @@
+export const upperFirst = str => str.replace(/\w/, m => m.toUpperCase())
